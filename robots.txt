@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-2kcm20.mpmprojects.co.nz/sitemap.xml
